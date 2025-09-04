@@ -5,47 +5,46 @@ Future versions will include live flight maps, airport boards, personalized noti
 
 🌍 Features
 
-Search flights by flight number.
+-🔎 Search flights by flight number – Quickly find your flight details.
 
-Get real-time flight status (on-time, delayed, cancelled, landed).
+-⏱️ Real-time flight status – Check if your flight is on-time, delayed, cancelled, or landed.
 
-View departure & arrival airports with scheduled times.
+-🛫🛬 Departure & Arrival info – View airport details with scheduled times.
 
-Simple, clean HTML, CSS, and JavaScript frontend.
+-💻 Simple frontend – Built with clean HTML, CSS, and JavaScript for easy use.
 
-Powered by the AviationStack API
-.
+-⚡ Powered by AviationStack API – Reliable flight data at your fingertips.
 
 🚀 Roadmap
 Phase 1 (MVP)
 
-Flight number search.
+-Flight number search ✅
 
-Real-time status and schedule display.
+-Real-time status and schedule display ✅
 
 Phase 2
 
-Airport arrivals & departures board.
+-Airport arrivals & departures board
 
-Live map view of aircraft position.
+-Live map view of aircraft position
 
-Local timezone conversion.
+-Local timezone conversion
 
 Phase 3
 
-Save favourite flights.
+-Save favourite flights
 
-Notifications for delays/cancellations.
+-Notifications for delays/cancellations
 
-Weather integration at airports.
+-Weather integration at airports 🌦️
 
 Phase 4
 
-Historical flight analytics.
+-Historical flight analytics 📊
 
-AI delay prediction.
+-AI delay prediction 🤖
 
-Premium features (seat map, booking integration).
+-Premium features – seat map, booking integration 💺
 
 🛠️ Tech Stack
 
