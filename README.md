@@ -67,6 +67,4 @@ Open index.html in your browser.
 
 Replace YOUR_API_KEY in script.js with your AviationStack API key.
 
-📸 Preview (MVP UI)
-
-----------------------
+**Under Development still**
