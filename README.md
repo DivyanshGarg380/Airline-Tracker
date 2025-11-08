@@ -1,4 +1,4 @@
 # Airline-Tracker
 
 **In construction,** 
-**Expected Completion in Dec'25**
+**Expected Completion of Phase 1 (Front End) in Dec'25**
